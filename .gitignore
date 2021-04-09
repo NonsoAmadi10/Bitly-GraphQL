@@ -1,0 +1,5 @@
+shorty/bin
+shorty/lib
+shorty/pyvenv.cfg
+shorty/.gitignore
+shorty/asgi.py
